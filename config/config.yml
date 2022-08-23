@@ -1,0 +1,5 @@
+url: http://amms.gp2dev.fii-fmc.com/api/eam-api
+headers:
+  user-agent: Chrome
+  Content-Type: application/json
+  authorization: 7d0961bc-8175-459c-8963-0fcff7780bfd

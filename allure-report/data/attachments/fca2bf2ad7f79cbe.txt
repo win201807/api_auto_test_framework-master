@@ -1,0 +1,4 @@
+INFO     utils.get_logger:daxue.py:19 2022-08-23 13:36:00 >>>>>> 开始执行：
+INFO     utils.get_logger:base_api.py:70 请求数据：{'url': 'http://amms.gp2dev.fii-fmc.com/api/eam-api/equipment_type/type/search_type_by_typename_or_model', 'method': 'GET', 'headers': {'user-agent': 'Chrome', 'Content-Type': 'application/json', 'authorization': 'a3d7a2af-e9bc-4bcd-bdfa-e2c2e7df9af1'}, 'params': {'pageNum': 1, 'pageSize': 10}}
+DEBUG    utils.get_logger:base_api.py:74 响应数据：{'code': 500, 'message': 'token验证不成功！', 'data': None}
+INFO     utils.get_logger:daxue.py:22 2022-08-23 13:36:00 >>>>>> 执行结束！

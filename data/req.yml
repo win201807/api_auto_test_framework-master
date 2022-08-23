@@ -1,0 +1,6 @@
+req:
+  pageNum: 1
+  pageSize: 10
+res:
+  code: 200
+  message: 操作成功
